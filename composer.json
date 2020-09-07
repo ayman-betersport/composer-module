@@ -1,5 +1,5 @@
 {
-    "name": "betersport/composermodule",
+    "name": "beter-sport/composer-module",
     "description": "Test module for working with composer, just returns true when asking for isComposerWorking on the categories query",
     "type": "magento2-module",
     "version": "1.0.0",
