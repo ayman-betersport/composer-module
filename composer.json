@@ -1,7 +1,7 @@
 {
     "name": "betersport/composer-module",
     "description": "Test module for working with composer, just returns true when asking for isComposerWorking on the categories query",
-    "type": "magento2-module",
+    "type": "package",
     "version": "1.0.0",
     "require": {
       "php": "~7.2.2"
@@ -13,3 +13,4 @@
       }
     }
   }
+
