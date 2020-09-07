@@ -1,5 +1,5 @@
 interface CategoryInterface {
-    isComposerWorking: boolean
+    isComposerWorking: Boolean
         @doc(description: "Returns true to test the composer module")
         @resolver(class: "\\BeterSport\\ComposerModule\\Model\\Resolver\\ComposerModuleResolver")
 }
