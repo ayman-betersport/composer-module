@@ -1,6 +1,6 @@
 <?php
 
-namespace BeterSport\ComposerModuleResolver\Model\Resolver;
+namespace BeterSport\ComposerModule\Model\Resolver;
 
 use Magento\Catalog\Api\AttributeSetRepositoryInterface;
 use Magento\Framework\GraphQl\Config\Element\Field;
