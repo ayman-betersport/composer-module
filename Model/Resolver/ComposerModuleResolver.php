@@ -8,7 +8,7 @@ use Magento\Framework\GraphQl\Query\ResolverInterface;
 use Magento\Framework\GraphQl\Schema\Type\ResolveInfo;
 
 
-class VideoURLResolver implements ResolverInterface
+class ComposerModuleResolver implements ResolverInterface
 {
     /**
      * @var AttributeSetRepositoryInterface
